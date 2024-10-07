@@ -5,10 +5,10 @@ VCAMM is a pioneering research initiative aimed at investigating the genomic and
 ## Supplementary Data for Publications
 This repository also houses supplementary datasets, scripts, and tools related to publications derived from the VCAMM project. These resources are freely available for public use, aligning with our commitment to open science and data-sharing within the African research landscape.
 
-Supplementary Data
+## Supplementary Data
 All supplementary datasets and files referenced in related VCAMM publications are stored in the supplementary_data folder. 
 
-Contact
+## Contact
 For questions, collaboration opportunities, or more information, please contact:
 
 Dr. Tsaone Tamuhla
