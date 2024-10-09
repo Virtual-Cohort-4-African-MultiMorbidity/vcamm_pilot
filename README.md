@@ -1,4 +1,4 @@
-# vcamm_pilot_project
+# vcamm_project
 ## Project Overview
 VCAMM is a pioneering research initiative aimed at investigating the genomic and non-genomic risk factors underlying multimorbidity in African populations. This cohort is designed to be cost-effective, agile, and responsive to both existing public health concerns, such as Type 2 diabetes, and emerging diseases. The project generates African data from African participants using African tools, contributing to the development of precision medicine in resource-limited settings.
 
